@@ -1,0 +1,7 @@
+selenium
+requests
+warnings
+pandas
+validators
+tqdm
+colorama
